@@ -1,8 +1,8 @@
 ```markdown
 # Learning Log - M1A3 GitHub Repository Management
 
-**Student:** [Your Name]  
-**Date:** [Today's Date]
+**Student:** Monty Montanez
+**Date:** 10/26/2025
 
 ## What I Learned
 In this assignment, I learned:
