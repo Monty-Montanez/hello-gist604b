@@ -6,7 +6,7 @@
 
 ## What I Learned
 In this assignment, I learned:
-- [Describe 2-3 key things you learned about GitHub]
+- How to create new GIThub files, that empty folders cant be created, and how to 
 - [How Issues help teams collaborate]
 - [Why documentation matters in open source projects]
 
